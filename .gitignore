@@ -1,0 +1,16 @@
+# Ignore compiled C files
+*.o
+*.obj
+*.exe
+*.out
+*.bin
+*.elf
+
+# Ignore compiled C++ files
+*.a
+*.lib
+*.so
+*.dll
+
+# Ignore all executable files in Unix/Mac
+main
